@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sedem Garr</h1>
 <h3 align="center">A front-end developer from Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedemgarr&label=Profile%20views&color=0e75b6&style=flat" alt="sedemgarr" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +20,5 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedemgarr&label=Profile%20views&color=0e75b6&style=flat" alt="sedemgarr" /> </p>
