@@ -14,9 +14,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sedemgarr&show_icons=true&locale=en&layout=compact" alt="sedemgarr" /></p>
 
 <h3 align="left">GitHub Trophies:</h3>
+
 ![](https://github-profile-trophy.vercel.app/?username=SedemGarr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Random Dev quote:</h3>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sedemgarr&label=Profile%20views&color=0e75b6&style=flat" alt="sedemgarr" /> </p>
